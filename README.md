@@ -8,7 +8,7 @@
 <br>
 
 ## Projeto TALLGS - WEB
-### Turma ADS (2019):
+### Turma ADS (2020):
 **Grupo:** Amanda Cleto, Gabriel Andrade, Gabriel Benitez, Lindsay Ferreira e Sthéffane.  
 **Colaborador:** Matheus Mendes.
 
