@@ -40,17 +40,11 @@ assim que atingirem a meta de pontos estabelecida. A corporação usuária deste
 sistema terá acesso a amplas estatísticas, otimizadas de forma estratégica, para
 a melhor análise de sua posição no mercado.
 
-
-## 📷 Imagens Ilustrativas do Projeto:
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-login.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-register.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-home.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-create-graphic.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-graphics-clients.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-graphics-accounts.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-create-report.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-cupon.png)
-![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-profile.png)
+## 📷 Gifs Ilustrativos do Projeto:
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-part1.gif)
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-part2.gif)
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-part3.gif)
+![](https://amandacleto.github.io/images-for-projects/public/images/github-readme/tg-web-part4.gif)
 
 
 ## 🚀 Como executar o projeto:
