@@ -9,7 +9,7 @@
 
 ## Projeto TALLGS - WEB
 ### Turma ADS (2019):
-**Grupo:** Amanda Cleto, Gabriel Andrade, Gabriel Benitez, Lindsay Ferreira e Sthéffane.
+**Grupo:** Amanda Cleto, Gabriel Andrade, Gabriel Benitez, Lindsay Ferreira e Sthéffane.  
 **Colaborador:** Matheus Mendes.
 
 ## Resumo:
